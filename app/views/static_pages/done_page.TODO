@@ -1,0 +1,29 @@
+Done page Link:
+  
+  認證:
+    ✔ list certificate     http://localhost:9999/backend/certificate/all_page @done (14-02-24 11:03)
+    ✔ create certificate   http://localhost:9999/backend/certificate/all_page @done (14-02-24 11:04)
+    ✔ edit certificate     http://localhost:9999/backend/certificate/9/edit-cert @done (14-02-24 11:04)
+    
+
+  領域:
+    ✔ list package         http://localhost:9999/backend/package/all_page @done (14-02-24 11:04)
+    ✔ create package       http://localhost:9999/backend/package/all_page @done (14-02-24 11:04)
+    ✔ edit package         http://localhost:9999/backend/package/edit_package/23 @done (14-02-24 11:04)
+
+  課程(教師):
+    ✔ list teached courses http://localhost:9999/ta_course/course/ta_teached_courses @done (14-02-24 11:04)
+    ✔ create course        http://localhost:9999/ta_course/course/new_course @done (14-02-24 11:04)
+    ✔ edit course          http://localhost:9999/ta_course/course/edit_course_info/13 @done (14-02-24 11:04)
+      @demo http://www.youtube.com/watch?v=moSFlvxnbgk
+
+  課程(學生):
+    ☐ course promote page  http://localhost:9999/ta_course/course/course_page/12
+    ☐ take course          http://localhost:9999/ta_course/course/take_course/3
+      ☐ 1. 必須要有進度追蹤 @issue
+      ☐ 2. 章節預設可以跳著看，看客戶需求調整 @issue
+
+
+  首頁:
+    ☐ HOME 
+      ☐ 學院先拿掉
